@@ -1,0 +1,160 @@
+{
+  "book_id": "climate_conscious_urban_realism_nature_civilization",
+  "title": "The Urban Watershed",
+  "tagline": "In a city drowning under its own weight, two siblings fight to turn their condemned apartment into a blueprint for survival.",
+  "target_words": 70000,
+  "actual_words": 73568,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Symbiotic Resistance",
+    "Infrastructure as Ecology",
+    "Precarious Adaptation",
+    "The Intelligence of Place"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Information in the Rain",
+      "words": 3065
+    },
+    {
+      "ch": 2,
+      "title": "The Weight of a Green Roof",
+      "words": 3065
+    },
+    {
+      "ch": 3,
+      "title": "Permits and Mycelial Networks",
+      "words": 3065
+    },
+    {
+      "ch": 4,
+      "title": "The Alliance",
+      "words": 3065
+    },
+    {
+      "ch": 5,
+      "title": "Scouting the Watershed",
+      "words": 3065
+    },
+    {
+      "ch": 6,
+      "title": "The Cost-Benefit of Hope",
+      "words": 3065
+    },
+    {
+      "ch": 7,
+      "title": "First-Flush",
+      "words": 3065
+    },
+    {
+      "ch": 8,
+      "title": "The Soil Test",
+      "words": 3065
+    },
+    {
+      "ch": 9,
+      "title": "Subterranean Pressures",
+      "words": 3065
+    },
+    {
+      "ch": 10,
+      "title": "The Swale Proposal",
+      "words": 3065
+    },
+    {
+      "ch": 11,
+      "title": "Community Board, Fractured",
+      "words": 3065
+    },
+    {
+      "ch": 12,
+      "title": "Signal Flood",
+      "words": 3065
+    },
+    {
+      "ch": 13,
+      "title": "The Developer's Tour",
+      "words": 3065
+    },
+    {
+      "ch": 14,
+      "title": "Guerrilla Grading",
+      "words": 3065
+    },
+    {
+      "ch": 15,
+      "title": "The Cat and the Rat",
+      "words": 3065
+    },
+    {
+      "ch": 16,
+      "title": "Reinforcing the Joists",
+      "words": 3065
+    },
+    {
+      "ch": 17,
+      "title": "A Political Liability",
+      "words": 3065
+    },
+    {
+      "ch": 18,
+      "title": "The Pilot Project",
+      "words": 3065
+    },
+    {
+      "ch": 19,
+      "title": "Bloom",
+      "words": 3065
+    },
+    {
+      "ch": 20,
+      "title": "The Coming Storm",
+      "words": 3065
+    },
+    {
+      "ch": 21,
+      "title": "Metabolism",
+      "words": 3065
+    },
+    {
+      "ch": 22,
+      "title": "Condemnation",
+      "words": 3065
+    },
+    {
+      "ch": 23,
+      "title": "The Hearing",
+      "words": 3065
+    },
+    {
+      "ch": 24,
+      "title": "A Human Scale",
+      "words": 3065
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a character discovers a hidden, thriving ecosystem in an abandoned urban infrastructure (e.g., a subway vent, a closed factory).",
+      "Draft a community meeting where residents with opposing views on 'rewilding' their block clash.",
+      "Create a journal entry from the perspective of a city planner secretly inspired by Leo and Maya's project.",
+      "Write a vignette about a non-human resident (the cat, a rat, a pioneering plant) of 447 Morgan Street, observing the changes."
+    ],
+    "technical": [
+      "Design a distributed, low-cost stormwater management system for a specific, real urban neighborhood, using the novel's principles.",
+      "Create a 'zine or guidebook titled 'The Guerrilla Gardener's Handbook to Urban Hydrology', with actionable steps and illustrations."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Jane Jacobs",
+      "Aldo Leopold",
+      "Octavia E. Butler",
+      "Kim Stanley Robinson"
+    ]
+  },
+  "cover_prompt": "Two siblings, a young woman and her younger brother, carefully installing a salvaged, verdant green wall system onto the crumbling exterior wall of their high-rise apartment, a defiant act of creation against a backdrop of decaying urban infrastructure, [Detailed Scene & Context: The scene is set at dusk on a massive, retrofitted residential tower in a dense, rain-slicked megacity; the building is a patchwork of makeshift repairs, hanging gardens, and water capture systems, with other illuminated windows showing similar small-scale ecological adaptations; the city beyond is a canyon of oppressive, monolithic structures under a hazy, amber-tinted sky], [Artistic Style & Medium: in the atmospheric, detailed, and socially-conscious style of a Geoff Dyer painting, blending urban realism with ecological nuance, rendered in textured impasto and moody glazes], [Composition & Camera: book cover framing, a centered and intimate composition on the siblings' focused work, with a dramatic low-angle shot that emphasizes the vertical scale of their building against the city, creating a sense of both vulnerability and monumental effort], [Lighting & Color Palette: dramatic chiaroscuro lighting from the warm, golden light of their apartment window contrasting with the cool, deep blues and steel greys of the impending night and wet surfaces, color palette of moss green, rust orange, concrete grey, and sodium-vapor amber], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
