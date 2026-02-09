@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## **Chapter 1**
 
 The rain in the city didn’t fall anymore; it arrived. It came in great, grey, horizontal sieves, scouring the glass and steel, finding every crack in the window seals of the old brick walk-ups. Leo Thorne watched it from the third-floor landing of 447 Morgan Street, a building that listed to the east like a ship taking on water. He wasn’t watching the rain itself, but what it did. The way it sheeted down the fire escape, how it pooled in the concave depression of the roof across the alley, a temporary, quivering silver lake. How it dripped from a specific broken gutter in a persistent, metronomic tap onto the lid of a blue recycling bin. That tap was off-rhythm. It meant the bin was nearly full, which meant the super, Sal, was behind. Information. Everything was information.
@@ -108,6 +110,8 @@ He breathed on the window, fogged a small circle, and in the center of it, with 
 
 ---
 
+# Chapter 2
+
 ## **Chapter 2**
 
 The roof was a kingdom of neglect and revelation. Leo pushed open the heavy steel door, its groan lost in the morning cacophony of the city—the metallic symphony of garbage trucks, the bass thump of a car stereo, the distant, rhythmic beep of a vehicle in reverse. Up here, above the street’s chaos, the air was different. It moved. It carried the sour tang of wet tar, the distant brine of the river, and underneath it all, the green, damp smell of life forcing its way through cracks.
@@ -183,6 +187,8 @@ She pointed to the mullein plant by the vent pipe. A small, dun-colored bird, a 
 They didn’t speak. They just watched the sparrow feast, its tiny head bobbing. It was all the confirmation they needed. The system wanted to work. It just needed a little help.
 
 ---
+
+# Chapter 3
 
 ## **Chapter 3**
 
